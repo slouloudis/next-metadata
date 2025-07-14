@@ -20,7 +20,6 @@ export const metadata = {
     title: 'Userz on openGraph',
     description: 'This is an opengraph description',
     type: 'website',
-    image: ['og-image.jpg']
   }
 };
 
